@@ -1,0 +1,38 @@
+body{
+ background-color:#e4f9f5;
+}
+
+p{
+ font: 1.2em "Fira Sans", sans-serif;
+ font-size: medium;
+ color:#11999e;
+}
+
+a:hover{
+  color: red;
+}
+
+.feedback{
+  color:#fc5185;
+  text-align: center;
+}
+
+input,textarea{
+font: 1.2em "Fira Sans", sans-serif;
+font-size: 85%;
+width: 30%;
+}
+
+.button{
+  background-color: #71c9ce;
+  transition-duration: 0.4s;
+}
+
+.button:hover{
+  background-color: green;
+  color:white;
+}
+
+tr:hover
+{background-color: #99f3bd;
+}
